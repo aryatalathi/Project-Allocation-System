@@ -11,4 +11,4 @@ Objectives:
 2. To allow students to create groups and join groups as per their choice.  
 3. To allow students to apply for projects as per their choices and get a chance to work on the particular project. 
 4. To create a dashboard for coordinators where all details and functionality of allocation will be available.  
-5. 
+
